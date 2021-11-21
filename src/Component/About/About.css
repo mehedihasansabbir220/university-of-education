@@ -1,0 +1,11 @@
+.about-container{
+    display: flex;
+    text-align: start;
+}
+.about-container img{
+    width: 50%;
+}
+
+.about-Us{
+    padding: 15px;
+}

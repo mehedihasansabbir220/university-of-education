@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "CoursePrice": "$69",
+        "title": "New Online Course ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_491323049_9706699704500219_60541.jpg"
+    },
+    {
+        "id": 2,
+        "CoursePrice": "$69",
+        "title": "NETWORKING MANAGEMENT ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://theindigitals.com/wp-content/uploads/2019/07/The-State-of-Digital-Marketing-Skills-in-2018-1024x794.png"
+    },
+    {
+        "id": 3,
+        "CoursePrice": "$69",
+        "title": "WAR HYSTERIA ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://theindigitals.com/wp-content/uploads/2019/07/The-State-of-Digital-Marketing-Skills-in-2018-1024x794.png"
+    },
+    {
+        "id": 4,
+        "CoursePrice": "$69",
+        "title": "LEARN TEACHING SKILLS ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://i.imgur.com/0OybT2Q.jpg"
+    },
+    {
+        "id": 5,
+        "CoursePrice": "$69",
+        "title": "LEARN ART OF PHOTOGRAPHY ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://www.iwmbuzz.com/wp-content/uploads/2021/07/become-a-professional-photographer-learn-the-art-of-clicking-stunning-images-920x518.jpeg"
+    },
+    {
+        "id": 6,
+        "CoursePrice": "$69",
+        "title": "CULTURE & HISTORY ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQhroMGFIqtlvLE79mpuBBkUOoMCYKvYe7A&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "CoursePrice": "$69",
+        "title": "CULTURE & HISTORY ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQhroMGFIqtlvLE79mpuBBkUOoMCYKvYe7A&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "CoursePrice": "$69",
+        "title": "CULTURE & HISTORY ",
+        "date": "Dec 27, 2015 Jan 27, 2016",
+        "heading": "NETWORKING MANAGEMENT ",
+        "discription": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeo ",
+        "image": "https://legiit-service.s3.amazonaws.com/339e2f61ba171de04b12646bb30b329b/4d754d6a2a9e56a85a943f779a67f286.jpg"
+    }
+]

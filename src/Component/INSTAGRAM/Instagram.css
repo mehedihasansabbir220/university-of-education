@@ -1,0 +1,8 @@
+.instagram{
+    display: flex;
+    margin: 10px;
+    border-radius: 2px;
+}
+.instagram img{
+    width: 100px;
+}
